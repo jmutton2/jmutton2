@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate software engineer studying at Western University</h3>
 
-- 👨‍💻 All of my projects are available at [https://jmutton2.github.io/](https://jmutton2.github.io/)
+- 👨‍💻 Some of my projects are available at [https://jmutton2.github.io/](https://jmutton2.github.io/)
 
 - 📫 How to reach me **jmutton2@uwo.ca**
 
