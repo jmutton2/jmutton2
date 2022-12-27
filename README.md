@@ -7,5 +7,3 @@
 - 📫 How to reach me **jmutton2@uwo.ca**
 
 - 📄 Know about my experiences [https://jmutton2.github.io/docs/resume.pdf](https://jmutton2.github.io/docs/resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
