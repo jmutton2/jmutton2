@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A passionate software engineer studying at Western University</h3>
+<h3 align="center">I like to build things</h3>
 
-- 👨‍💻 Some of my projects are available at [https://jacobmutton.tech](https://jacobmutton.tech)
+- 👨‍💻 Some of my projects are available at [https://jmutton2.github.io](https://jmutton2.github.io)
 
 - 📫 How to reach me **jmutton2@uwo.ca**
-
-- 📄 Know about my experiences [https://jacobmutton.tech/resume.pdf](https://jacobmutton.tech/resume.pdf)
